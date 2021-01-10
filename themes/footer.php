@@ -75,7 +75,7 @@
 	<?php do_action( 'lightning_copySection_before' ); ?>
 
 	<div class="container sectionBox copySection text-center">
-			<?php lightning_the_footerCopyRight(); ?>
+			<?php //lightning_the_footerCopyRight(); ?>
 	</div>
 </footer>
 <?php do_action( 'lightning_footer_after' ); ?>
