@@ -77,7 +77,7 @@
 	<div class="container sectionBox copySection text-center">
 			<?php //lightning_the_footerCopyRight(); ?>
 	</div>
-</footer>
+</footer>aaa
 <?php do_action( 'lightning_footer_after' ); ?>
 <?php wp_footer(); ?>
 </body>
